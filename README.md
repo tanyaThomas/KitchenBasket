@@ -1,2 +1,6 @@
 # KitchenBasket
 Vacation Assignment 
+
+http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/
+
+http://www.gitguys.com/topics/creating-and-playing-with-branches/
